@@ -1,5 +1,5 @@
 # Discrete-IR-Code-implant
-A means of providing Humax YouView box with discrete Power On and Power Off Commands
+
 A 'standard problem' with Infra Red (I/R) control consumer AV gear is that some vendors do not provide discrete Power On and Power Off commands - only a toggle.  That makes automation (e.g. RTI, Crestron, Pronto) impossible to make reliable, as you can't know for sure whether the device is on or off.
 Some brands - e.g. Sky, and many televisions - will always turn on if you press a particular code.
 Others - e.g. Humax - just don't have ANY way to be sure whether they are on or off.
